@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_auth_profile_basic">
+    <sys_auth_profile_basic action="INSERT_OR_UPDATE">
+        <name>User Integration</name>
+        <password>﷞﷟﷒4f087bed97753110951476771153af63﷬﷔1﷬﷭uPCcTQR6MTSfDv7zxneccQ==rCwVvy-KwkJsuukdYS8IlG018ZUUx8EwW5GuxayNiXoBK5EDkWNAGVOnQ4Z9_XkKVUEPn7N7alElwd3NlwVHEX3WfSaPwMU3fARD54n5Sg8ZUKS8slJjIP4otGNdbhBdBtOu518sD84nDEvsrH0VVJlsIz0=﷮﷯</password>
+        <sys_class_name>sys_auth_profile_basic</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2024-06-12 19:41:32</sys_created_on>
+        <sys_id>dcb5c33897724e10951476771153affc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>User Integration</sys_name>
+        <sys_package display_value="Incidents Integration" source="x_744920_inc_integ">c5e407b497724e10951476771153af3d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Incidents Integration">c5e407b497724e10951476771153af3d</sys_scope>
+        <sys_update_name>sys_auth_profile_basic_dcb5c33897724e10951476771153affc</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2024-06-12 19:52:22</sys_updated_on>
+        <username>svc_integration</username>
+    </sys_auth_profile_basic>
+</record_update>
